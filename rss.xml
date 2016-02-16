@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Be a Hero]]></title>
         <description><![CDATA[Be a Hero]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/be-a-hero/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:33:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 23:36:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/be-a-hero/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We’re all a superhero to someone.]]></title>
+            <description><![CDATA[<article><h1>We’re all a superhero to someone.</h1><p>We all want to provide love and protection to those that depend on us for everything. One of the main attributes of the typical hero is to provide help when it’s most needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d8a5aecf66785010b96c32f63003ee81a6292e3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/be-a-hero/be-a-hero/index.html</link>
+            <guid isPermaLink="false">d68550ea-6fc3-4c4c-a62f-4a83ac5c35a9</guid>
+            <pubDate>Tue, 16 Feb 2016 23:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02e3695-81df-4d49-8780-a075a91afeb5.jpg">]]></description>
-            <link>undefinedab25652a-c8f2-4280-a551-f3a2489092c5/index.html</link>
+            <link>https://thegrid.ai/be-a-hero/ab25652a-c8f2-4280-a551-f3a2489092c5/index.html</link>
             <guid isPermaLink="false">ab25652a-c8f2-4280-a551-f3a2489092c5</guid>
             <pubDate>Tue, 09 Feb 2016 19:28:55 GMT</pubDate>
         </item>
